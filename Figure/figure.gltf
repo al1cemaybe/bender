@@ -75,20 +75,6 @@
             "uri" : "figure.bin"
         }
     ],
-    "materials" : [
-        {
-            "name" : "Material.001",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.4290773932498304,
-                    0.002888833588195347,
-                    0.640000066757203,
-                    1.0
-                ],
-                "metallicFactor" : 0.0
-            }
-        }
-    ],
     "meshes" : [
         {
             "name" : "Icosphere",
@@ -98,8 +84,7 @@
                         "NORMAL" : 2,
                         "POSITION" : 1
                     },
-                    "indices" : 0,
-                    "material" : 0
+                    "indices" : 0
                 }
             ]
         }
