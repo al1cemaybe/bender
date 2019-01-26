@@ -759,12 +759,17 @@
     ],
     "materials" : [
         {
+            "emissiveFactor" : [
+                0.25108483655298386,
+                0.4399999976158142,
+                0.39025464800133136
+            ],
             "name" : "Material.001",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.45651789391812514,
-                    0.800000011920929,
-                    0.709553919874935,
+                    0.5706473588943481,
+                    1.0,
+                    0.8869423866271973,
                     1.0
                 ],
                 "metallicFactor" : 0.0
@@ -783,6 +788,11 @@
             }
         },
         {
+            "emissiveFactor" : [
+                0.5,
+                0.2100166529417038,
+                0.2100166529417038
+            ],
             "name" : "sofa",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
