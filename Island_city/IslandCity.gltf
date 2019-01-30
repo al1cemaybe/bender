@@ -1728,6 +1728,11 @@
     ],
     "materials" : [
         {
+            "emissiveFactor" : [
+                0.05827881395816803,
+                0.11539524048566818,
+                0.5173333287239075
+            ],
             "name" : "Material.001",
             "pbrMetallicRoughness" : {}
         },
@@ -1785,7 +1790,16 @@
         },
         {
             "name" : "autumn",
-            "pbrMetallicRoughness" : {}
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.4200241267681122,
+                    0.10257852077484131,
+                    0.03718281537294388,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.6732679605484009
+            }
         },
         {
             "name" : "bush",
